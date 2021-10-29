@@ -1,0 +1,17 @@
+html
+  head
+    title #{siteName}
+    link(rel='preconnect', href='https://fonts.googleapis.com')
+    link(rel='preconnect', href='https://fonts.gstatic.com', crossorigin)
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400;600;900&display=swap')
+    link(rel='stylesheet', href='/static/style.css')
+  body
+    div(class='header')
+      div(class='title') Homework 3
+      div(class='menu')
+        a(class='menu-button' href='/') Home
+        a(class='menu-button' href='/about') About
+        a(class='menu-button' href='/contact') Contact
+    div(class='content')
+      block content
+        p This page has no content yet.
