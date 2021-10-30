@@ -8,7 +8,7 @@ const path = require('path');
 const app = new Koa();
 const router = new Router();
 const date = new Date();
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 const pug = new Pug({
   viewPath: path.resolve(__dirname, 'views'),
