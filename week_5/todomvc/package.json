@@ -1,9 +1,6 @@
 {
   "name": "todomvc",
   "version": "0.1.0",
-  "engines": {
-    "node": "17.x"
-  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -12,7 +9,6 @@
     "nanoid": "^3.1.30",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
@@ -38,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies":{
+    "react-scripts": "^4.0.3"
   }
 }
