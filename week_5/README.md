@@ -1,5 +1,4 @@
-### AloTech Full-Stack Bootcamp Homeworks - Week 5
-
-**Homework 1**
-
-_ToDoMVC_ - Deployed on [Heroku](https://afternoon-dawn-67239.herokuapp.com/).
+-> react.js, function components, nanoid
+| Homework | Description                  | URL / Deployment                                                                                                                                             |
+|----------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ToDoMVC  | Simple To Do App with React  | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/tree/main/week_5/todomvc) / [Heroku](https://afternoon-dawn-67239.herokuapp.com/)|

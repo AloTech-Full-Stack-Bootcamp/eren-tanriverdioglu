@@ -1,3 +1,3 @@
-### Smartedu
-
-Deployed on [Heroku](https://enigmatic-reef-04885.herokuapp.com/).
+| Project              | Description                                     | URL / Deployment                                                                                                                                       |
+|----------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| smartedu             | Express.js app project from Patika Node.js Path | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/tree/main/smartedu) / [Heroku](https://enigmatic-reef-04885.herokuapp.com/)|
