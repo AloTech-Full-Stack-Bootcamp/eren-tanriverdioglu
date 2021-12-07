@@ -52,11 +52,11 @@ This repository contains all homeworks and side projects I've completed during [
 
 #### Week 7
 
- -> python, decorator, generator
+-> python, decorator, generator
 | Homework  | Description                             | URL / Deployment                                                                             |
 |-----------|-----------------------------------------|----------------------------------------------------------------------------------------------|
-| Generator | Simple random number generator          | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/tree/main/week_7)|
-| Decorator | Simple decorator does something strange | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/tree/main/week_7)|
+| Generator | Simple random number generator          | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/blob/main/week_7/random_number_generator.py)|
+| Decorator | Simple decorator does something strange | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/blob/main/week_7/my_awesome_decorator.py)|
 
 
 ### Side Projects
