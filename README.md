@@ -58,6 +58,13 @@ This repository contains all homeworks and side projects I've completed during [
 | Generator | Simple random number generator          | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/blob/main/week_7/random_number_generator.py)|
 | Decorator | Simple decorator does something strange | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/blob/main/week_7/my_awesome_decorator.py)|
 
+#### Week 8
+
+-> django, postgresql, djangorestframework
+| Homework   | Description                    | URL / Deployment                                                                                        |
+|------------|--------------------------------|---------------------------------------------------------------------------------------------------------|
+| Patikagram | Instagram clone with Django    | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/blob/main/week_8/patikagram)|
+
 
 ### Side Projects
 
