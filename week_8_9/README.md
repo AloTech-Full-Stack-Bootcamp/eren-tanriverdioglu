@@ -1,4 +1,4 @@
--> django, postgresql, djangorestframework, jwt
+-> django, postgresql, djangorestframework, jwt, swagger
 | Homework   | Description                    | URL / Deployment                                                                                        |
 |------------|--------------------------------|---------------------------------------------------------------------------------------------------------|
 | Patikagram | Instagram clone with Django    | [GitHub](https://github.com/AloTech-Full-Stack-Bootcamp/eren-tanriverdioglu/blob/main/week_8_9/patikagram)|
