@@ -27,6 +27,11 @@ class Like(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now_add=True)
 
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(fields=['post', 'user'], name="unique like")
+        ]
+
     def __str__(self):
         return f"{self.post.content} liked by {self.user}"
 
