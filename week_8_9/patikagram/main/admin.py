@@ -4,10 +4,6 @@ from .models import Post, Like, Comment
 
 # Register your models here.
 
-def comment_like_count(Post):
-    return f'Comments: {Post.comment_count} / Likes: {Post.like_count}'
-
-
 class LikeInline(admin.TabularInline):
     model = Like
     extra = 1
@@ -21,7 +17,7 @@ class CommentInline(admin.TabularInline):
 
 
 class PostAdmin(admin.ModelAdmin):
-    list_display = ['content', 'author', 'created_at', comment_like_count]
+    list_display = ['content', 'author', 'created_at']
     ordering = ['-created_at']
     list_filter = ['author']
     autocomplete_fields = ['author']
